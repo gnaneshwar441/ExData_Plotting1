@@ -1,3 +1,10 @@
+## How to run the program
+* Download all the 4 .R files into the folder "ExData_Plotting1"
+* Download the dataset from <a href="https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption">UCI
+web site</a>. Unzip and copy the "household_power_consumption.txt" file into "ExData_Plotting1" folder.
+* Run the 4 .R programs to see the 4 PNG image files.
+
+
 ## Introduction
 
 This assignment uses data from
